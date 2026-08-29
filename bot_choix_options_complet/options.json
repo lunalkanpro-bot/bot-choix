@@ -1,0 +1,92 @@
+[
+  {
+    "numero": 1,
+    "emoji": "🪞",
+    "nom": "Catoptromancie",
+    "role": "🪞 Catoptromancie"
+  },
+  {
+    "numero": 2,
+    "emoji": "🔮",
+    "nom": "Cristallomancie & scrying",
+    "role": "🔮 Cristallomancie & scrying"
+  },
+  {
+    "numero": 3,
+    "emoji": "🟤",
+    "nom": "Géomancie traditionnelle",
+    "role": "🟤 Géomancie traditionnelle"
+  },
+  {
+    "numero": 4,
+    "emoji": "🎲",
+    "nom": "Astragalomancie",
+    "role": "🎲 Astragalomancie"
+  },
+  {
+    "numero": 5,
+    "emoji": "🌌",
+    "nom": "Magie astrale médiévale",
+    "role": "🌌 Magie astrale médiévale"
+  },
+  {
+    "numero": 6,
+    "emoji": "🧿",
+    "nom": "Magie talismanique & magie des images",
+    "role": "🧿 Magie talismanique & magie des images"
+  },
+  {
+    "numero": 7,
+    "emoji": "📜",
+    "nom": "Magie gréco-égyptienne - Papyri Graecae Magicae",
+    "role": "📜 Magie gréco-égyptienne - Papyri Graecae Magicae"
+  },
+  {
+    "numero": 8,
+    "emoji": "⛓️",
+    "nom": "Defixiones & sorts de ligature",
+    "role": "⛓️ Defixiones & sorts de ligature"
+  },
+  {
+    "numero": 9,
+    "emoji": "🛡️",
+    "nom": "Magie apotropaïque - Protection contre le mal",
+    "role": "🛡️ Magie apotropaïque - Protection contre le mal"
+  },
+  {
+    "numero": 10,
+    "emoji": "📖",
+    "nom": "Magie rituelle des grimoires",
+    "role": "📖 Magie rituelle des grimoires"
+  },
+  {
+    "numero": 11,
+    "emoji": "💀",
+    "nom": "Nécromancie historique & communication avec les morts",
+    "role": "💀 Nécromancie historique & communication avec les morts"
+  },
+  {
+    "numero": 12,
+    "emoji": "🪄",
+    "nom": "Seiðr & pratiques magiques nordiques",
+    "role": "🪄 Seiðr & pratiques magiques nordiques"
+  },
+  {
+    "numero": 13,
+    "emoji": "🧹",
+    "nom": "Sorcellerie populaire française & désenvoûtement",
+    "role": "🧹 Sorcellerie populaire française & désenvoûtement"
+  },
+  {
+    "numero": 14,
+    "emoji": "🏺",
+    "nom": "Magie mésopotamienne & exorcismes de l'āšipu",
+    "role": "🏺 Magie mésopotamienne & exorcismes de l'āšipu"
+  },
+  {
+    "numero": 15,
+    "emoji": "🩸",
+    "nom": "Le sang dans l'histoire de la magie et du rituel",
+    "role": "🩸 Le sang dans l'histoire de la magie et du rituel"
+  }
+]
